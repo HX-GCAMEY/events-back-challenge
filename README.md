@@ -1,4 +1,4 @@
-# Gestión de eventos Backend developer
+# Gestión de eventos Backend developer 🦖
 
 Crear una API RESTful utilizando Express.js o Nest.js y una base de datos MongoDB, MySQL o PostgreSQL para gestionar eventos con fecha, hora y descripción. Se considerará un punto extra la implementación de recordatorios opcionales para los eventos.
 
